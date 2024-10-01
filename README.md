@@ -8,12 +8,14 @@
 </div>
 
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/%C2%A9_BSD_3--Clause-License-green?style=for-the-badge">
+    <a href="https://github.com/james-beans/colour.bat/blob/main/LICENSE">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%C2%A9_BSD_3--Clause-License-green?style=for-the-badge">
+    </a>
 </p>
 
 <p align="center">
-  <img alt="visitor badge" src="https://visitor-badge.lithub.cc/badge?page_id=0SGames.colour.bat"/>
-  <img alt="version badge" src="https://img.shields.io/github/v/release/0SGames/colour.bat?color=red">
+    <img alt="visitor badge" src="https://visitor-badge.lithub.cc/badge?page_id=0SGames.colour.bat"/>
+    <img alt="version badge" src="https://img.shields.io/github/v/release/0SGames/colour.bat?color=red">
 </p>
 
 <div align="center">
